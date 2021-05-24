@@ -14,11 +14,11 @@
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparebola&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparebola&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
   </tr>   
 </table>
 </p>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/sparebola/sparebola/master/photo.jpg" />
+<td><img src="https://raw.githubusercontent.com/sparebola/sparebola/master/photo.jpg" /></td>
