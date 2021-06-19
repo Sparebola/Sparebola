@@ -23,4 +23,4 @@
 <br />
 
 <td><img src="https://raw.githubusercontent.com/sparebola/sparebola/master/photo.jpg" /></td>
-<td><img src="https://raw.githubusercontent.com/sparebola/sparebola/master/photo2.jpg" /></td>
+<td><img src="https://raw.githubusercontent.com/sparebola/sparebola/master/photo2.png" /></td>
