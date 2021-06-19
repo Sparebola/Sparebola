@@ -1,5 +1,6 @@
-## <img src="https://raw.githubusercontent.com/sparebola/sparebola/master/wave.gif" width="25px"> Hi there! 
+## <img src="https://raw.githubusercontent.com/sparebola/sparebola/master/wave.gif" width="25px"> Всем привет! 
 
+Заполню это когда мне будет за 30.
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,3 +23,4 @@
 <br />
 
 <td><img src="https://raw.githubusercontent.com/sparebola/sparebola/master/photo.jpg" /></td>
+<td><img src="https://raw.githubusercontent.com/sparebola/sparebola/master/photo2.jpg" /></td>
